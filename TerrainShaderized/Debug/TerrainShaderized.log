@@ -1,0 +1,32 @@
+﻿  TerrainGeneration.cpp
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(229,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(230,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(236,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(237,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(259,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(260,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(264,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(265,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(330,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(413,44): warning C4316: 'Grid': object allocated on the heap may not be aligned 16
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(415,33): warning C4316: 'Grid': object allocated on the heap may not be aligned 16
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(429,35): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(486,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(505,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(523,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(524,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(614,14): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(615,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(623,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(666,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\TerrainGeneration.cpp(670,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TerrainShaderized.vcxproj -> C:\Users\Jacob\Documents\Files\Uni Work\322\322Final\322_Coursework2Backup6\322_Coursework2Backup2\322_Coursework2\TerrainShaderized\TerrainShaderized\Debug\TerrainShaderized.exe
